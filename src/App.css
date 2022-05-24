@@ -646,6 +646,7 @@
   .left,
   .right {
     width: 100%;
+    padding: 40px 0 40px 40px;
   }
 
   .right ul li {
@@ -660,6 +661,14 @@
     align-items: flex-start;
     text-align: left;
     margin-right: 60px;
+  }
+
+  .painPoints {
+    height: 500px;
+  }
+
+  .productContent h2 {
+    margin-top: 100px;
   }
 
   .productPara {
